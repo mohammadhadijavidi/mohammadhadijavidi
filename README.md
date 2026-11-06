@@ -1,10 +1,20 @@
 ![Mohammad Hadi Javidi: AI products and automation, Dubai](assets/banner.png)
 
-# Mohammad Hadi Javidi
+# Mohammad Hadi Javidi (محمد هادی جاویدی)
+
+[Website](https://mohammadhadijavidi.github.io) · [فارسی](https://mohammadhadijavidi.github.io/fa/) · [العربية](https://mohammadhadijavidi.github.io/ar/)
 
 I build AI products and automation from Dubai: voice agents, RAG systems, AI support bots, developer tools and trading analytics. I work in English, Persian (فارسی) and Arabic (العربية), and many of my open-source projects focus on right-to-left languages that mainstream AI tools handle poorly.
 
 Every project below is free and MIT-licensed, ships with tests and CI, and works with OpenAI, Anthropic, OpenRouter, Groq or local models via Ollama.
+
+## Native Mac apps
+
+| App | What it does |
+| --- | --- |
+| [ModelFit](https://github.com/mohammadhadijavidi/modelfit) | Can your Mac run this AI model? Reads GGUF, safetensors and MLX headers and estimates memory per context length, with Finder Quick Look |
+| [Underhood](https://github.com/mohammadhadijavidi/underhood) | Everything running behind the scenes on your Mac, explained in plain English, with signature checks and reversible disable |
+| [Harf · حرف](https://github.com/mohammadhadijavidi/harf) | Arabic text toolkit for macOS: Arabizi to Arabic, wrong keyboard layout fix, PDF Arabic repair, in any app |
 
 ## AI developer tools
 
@@ -62,7 +72,7 @@ Every project below is free and MIT-licensed, ships with tests and CI, and works
 
 ## Stack
 
-Python, TypeScript, Swift · FastAPI, aiogram, Telethon · OpenAI, Anthropic, Ollama, Whisper · Twilio, WhatsApp Cloud API, Telegram Bot API · ffmpeg, Playwright · Linux, Docker, VPS infrastructure · iOS (shipped Technicalist, an AI trading analysis app)
+Python, TypeScript, Swift, SwiftUI · FastAPI, aiogram, Telethon · OpenAI, Anthropic, Ollama, Whisper · Twilio, WhatsApp Cloud API, Telegram Bot API · ffmpeg, Playwright · Linux, Docker, VPS infrastructure · iOS (shipped Technicalist, an AI trading analysis app)
 
 ## Contact
 
